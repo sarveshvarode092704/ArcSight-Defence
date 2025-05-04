@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Device to device layout can be adjust-->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/main"
+    android:layout_height="match_parent"
+    android:background="#90EE90"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <!-- App Title -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/down_corner"
+        android:text="ArcSight Defence"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:textSize="45sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="411dp"
+        android:layout_height="113dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="30sp"
+        android:text="Equipment Recommendation"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/corners_input"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="157dp"
+                android:layout_height="wrap_content"
+                android:text="  Type: "
+                android:textStyle="bold"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/type"
+                android:layout_width="236dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@android:drawable/editbox_background"
+                android:hint="Type"
+                android:inputType="text" />
+        </LinearLayout>
+
+        <!-- Material -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="157dp"
+                android:layout_height="wrap_content"
+                android:text="  Material: "
+                android:textStyle="bold"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/material"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@android:drawable/editbox_background"
+                android:hint="Material"
+                android:inputType="text" />
+        </LinearLayout>
+
+        <!-- Weight -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="157dp"
+                android:layout_height="wrap_content"
+                android:text="  Weight (kg): "
+                android:textStyle="bold"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/weight"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@android:drawable/editbox_background"
+                android:hint="Weight (kg)"
+                android:inputType="numberDecimal" />
+        </LinearLayout>
+
+        <!-- Durability -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="157dp"
+                android:layout_height="wrap_content"
+                android:text="  Durability (years): "
+                android:textStyle="bold"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/durability"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@android:drawable/editbox_background"
+                android:hint="Durability (years)"
+                android:inputType="numberDecimal" />
+        </LinearLayout>
+
+        <!-- Protection Level -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="158dp"
+                android:layout_height="wrap_content"
+                android:text="  Protection Level: "
+                android:textStyle="bold"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/protectionLevel"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@android:drawable/editbox_background"
+                android:hint="Protection Level"
+                android:inputType="text" />
+        </LinearLayout>
+
+        <!-- Special Features -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="158dp"
+                android:layout_height="wrap_content"
+                android:text="  Special Features: "
+                android:textStyle="bold"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/specialFeatures"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@android:drawable/editbox_background"
+                android:hint="Special Features"
+                android:inputType="text" />
+        </LinearLayout>
+
+        <!-- Price -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="158dp"
+                android:layout_height="wrap_content"
+                android:text="  Price (INR): "
+                android:textStyle="bold"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/price"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@android:drawable/editbox_background"
+                android:hint="Price (INR)"
+                android:inputType="numberDecimal" />
+        </LinearLayout>
+    </LinearLayout>
+        <!-- Button -->
+        <Button
+            android:id="@+id/recommendButton"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Get Recommendation"
+            android:textColor="@android:color/white" />
+
+        <!-- RecyclerView for displaying results -->
+        <EditText
+            android:id="@+id/editTextResult2"
+            android:layout_width="378dp"
+            android:layout_height="193dp"
+            android:background="@android:drawable/editbox_background"
+            android:hint="Result will be displayed here"
+            android:editable="false"
+            android:scrollbars="vertical"/>
+    </LinearLayout>
+
+</RelativeLayout>

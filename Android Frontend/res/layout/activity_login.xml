@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/main"
+    android:layout_height="match_parent"
+    android:background="#90EE90">
+
+    <!-- Title at the Top -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/down_corner"
+        android:text="  ArcSight Defence"
+        android:textColor="#FFFFFF"
+        android:textSize="45sp" />
+    <!-- Main Content (Login Form) -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:padding="10dp">
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email or Username"
+            android:inputType="text"
+            android:padding="10dp"
+            android:background="@android:drawable/editbox_background"/>
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:padding="10dp"
+            android:background="@android:drawable/editbox_background"
+            android:layout_marginTop="10dp"/>
+
+        <CheckBox
+            android:id="@+id/rememberMe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Remember Me"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:id="@+id/loginButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:backgroundTint="@android:color/black"
+            android:textColor="@android:color/white"
+            android:padding="12dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:id="@+id/signUpText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Don't have an account? Sign Up"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:paddingTop="10dp"
+            android:clickable="true"
+            android:gravity="center"
+            android:layout_marginTop="10dp"/>
+    </LinearLayout>
+
+</RelativeLayout>

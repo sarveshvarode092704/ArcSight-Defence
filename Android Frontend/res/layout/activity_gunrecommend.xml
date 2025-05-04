@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/main"
+    android:layout_height="match_parent"
+    android:background="#90EE90"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <!-- App Title -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/down_corner"
+        android:text="ArcSight Defence"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:textSize="45sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="411dp"
+            android:layout_height="113dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="30sp"
+            android:text="Gun Recommendation"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/corners_input"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+                <!-- Caliber -->
+                <TextView
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:text="  Type:"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/type"
+                    android:layout_width="228dp"
+                    android:layout_height="wrap_content"
+                    android:background="@android:drawable/editbox_background"
+                    android:gravity="center"
+                    android:hint="Enter Type"
+                    android:inputType="text" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+                <!-- Caliber -->
+                <TextView
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:text="  Caliber:"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/caliber"
+                    android:layout_width="228dp"
+                    android:layout_height="wrap_content"
+                    android:background="@android:drawable/editbox_background"
+                    android:gravity="center"
+                    android:hint="Enter Caliber"
+                    android:inputType="text" />
+            </LinearLayout>
+            <!-- Barrel Length -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="180dp"
+                    android:layout_height="wrap_content"
+                    android:text=" Barrel Length (mm):"
+                    android:textSize="16sp"
+                    android:textStyle="bold"/>
+
+                <EditText
+                    android:id="@+id/barrelLength"
+                    android:layout_width="204dp"
+                    android:layout_height="wrap_content"
+                    android:background="@android:drawable/editbox_background"
+                    android:hint="Enter Barrel Length"
+                    android:inputType="numberDecimal" />
+            </LinearLayout>
+            <!-- Effective Range -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="178dp"
+                    android:layout_height="wrap_content"
+                    android:text=" Effective Range (m):"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/effectiveRange"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:drawable/editbox_background"
+                    android:hint="Enter Effective Range"
+                    android:inputType="numberDecimal" />
+            </LinearLayout>
+            <!-- Magazine Capacity -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="175dp"
+                    android:layout_height="wrap_content"
+                    android:text=" Magazine Capacity:"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/magazineCapacity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:drawable/editbox_background"
+                    android:hint="Enter Magazine Capacity"
+                    android:inputType="numberDecimal" />
+            </LinearLayout>
+            <!-- Weight -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="218dp"
+                    android:layout_height="wrap_content"
+                    android:text=" Weight (kg):"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/weight"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:drawable/editbox_background"
+                    android:hint="Enter Weight"
+                    android:inputType="numberDecimal" />
+            </LinearLayout>
+            <!-- Action Type -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="201dp"
+                    android:layout_height="wrap_content"
+                    android:text=" Action Type:"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/actionType"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:drawable/editbox_background"
+                    android:hint="Enter Action Type"
+                    android:inputType="text" />
+            </LinearLayout>
+            <!-- Price -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="225dp"
+                    android:layout_height="wrap_content"
+                    android:text=" Price (INR):"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+
+                <EditText
+                    android:id="@+id/price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:drawable/editbox_background"
+                    android:hint="Enter Price"
+                    android:inputType="numberDecimal" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- Recommendation Button -->
+        <Button
+            android:id="@+id/recommendButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="Get Recommendation"
+            android:textColor="@android:color/white" />
+
+
+        <!-- RecyclerView for Displaying Recommended Guns -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Recommended Guns"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/editTextResult"
+            android:layout_width="378dp"
+            android:layout_height="193dp"
+            android:background="@android:drawable/editbox_background"
+            android:hint="Result will be displayed here"
+            android:editable="false"
+            android:scrollbars="vertical"/>
+    </LinearLayout>
+
+</RelativeLayout>

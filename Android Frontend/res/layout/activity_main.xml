@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#90EE90"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+
+    <!-- App Title Updated for ArcSight Defence in Red -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/down_corner"
+        android:text="  ArcSight Defence"
+        android:textColor="#FFFFFF"
+        android:textSize="45sp"
+        tools:ignore="HardcodedText" />
+
+    <!-- Main Content Area -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <!-- Instructional Text -->
+        <TextView
+            android:layout_width="434dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="30sp"
+            android:text="Choose a tool for analysis :"
+            android:textColor="#000000"
+            android:textSize="27sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText,TextSizeCheck" />
+
+        <!--Range Predictor -->
+        <Button
+            android:id="@+id/RangePredictionButton"
+            android:layout_width="318dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Gun Range Predictor"
+            android:textSize="18sp"
+            android:layout_marginTop="5dp"/>
+        <!-- Gun Recommendation Tool -->
+        <Button
+            android:id="@+id/GunRecommendationButton"
+            android:layout_width="313dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Gun Recommendation Tool"
+            android:textSize="18sp"
+            android:layout_marginTop="5dp" />
+        <!-- Equipment Recommendation Tool -->
+        <Button
+            android:id="@+id/EquipmentRecommendationButton"
+            android:layout_width="332dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:text="Equipment Recommendation Tool"
+            android:textSize="18sp"
+            tools:ignore="TextSizeCheck" />
+        <!-- Grenade Recommendation Tool -->
+        <Button
+            android:id="@+id/GrenadeRecommendationButton"
+            android:layout_width="313dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Grenade Recommendation Tool"
+            android:textSize="18sp"
+            android:layout_marginTop="5dp" />
+
+        <Button
+            android:id="@+id/Logout"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Logout"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+</RelativeLayout>

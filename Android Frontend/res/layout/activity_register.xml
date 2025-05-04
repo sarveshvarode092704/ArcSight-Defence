@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#90EE90"
+    android:orientation="vertical">
+
+
+    <!-- App Title Updated for ArcSight Defence in Red -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/down_corner"
+        android:text="  ArcSight Defence"
+        android:textColor="#FFFFFF"
+        android:textSize="45sp" />
+
+    <!-- Main Content Area -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="434dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="30sp"
+            android:text="Register"
+            android:textColor="#000000"
+            android:textSize="27sp"
+            android:textStyle="bold"
+            />
+
+        <!-- Full Name -->
+        <EditText
+            android:id="@+id/fullName"
+            android:layout_width="383dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="@android:drawable/editbox_background"
+            android:hint="Full Name"
+            android:inputType="textPersonName"
+            android:padding="12dp" />
+
+        <!-- Username -->
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="@android:drawable/editbox_background"
+            android:hint="Username"
+            android:inputType="text"
+            android:padding="12dp" />
+
+        <!-- Email Address -->
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="384dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="@android:drawable/editbox_background"
+            android:hint="Email Address"
+            android:inputType="textEmailAddress"
+            android:padding="12dp" />
+
+        <!-- Phone Number -->
+        <EditText
+            android:id="@+id/phoneNumber"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="@android:drawable/editbox_background"
+            android:hint="Phone Number"
+            android:inputType="phone"
+            android:padding="12dp" />
+
+        <!-- Password -->
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="@android:drawable/editbox_background"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:padding="12dp" />
+
+        <!-- Confirm Password -->
+        <EditText
+            android:id="@+id/confirmPassword"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="@android:drawable/editbox_background"
+            android:hint="Confirm Password"
+            android:inputType="textPassword"
+            android:padding="12dp" />
+
+        <!-- OTP -->
+
+        <!-- Register Button -->
+        <Button
+            android:id="@+id/registerButton"
+            android:layout_width="314dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="@color/black"
+            android:padding="12dp"
+            android:text="Register"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+
+        <!-- Login Text -->
+        <TextView
+            android:id="@+id/registerRedirect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:padding="10dp"
+            android:text="Already have an account? Login here."
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</RelativeLayout>
