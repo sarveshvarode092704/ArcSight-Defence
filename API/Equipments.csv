@@ -1,0 +1,101 @@
+Item ID,Name,Type,Manufacturer/Brand,Material,Weight (kg),Durability (years),Dimensions,Protection Level,Special Features,Introduced Year,Price (INR),Usage,Popularity,Legal Restrictions
+1,Kevlar Vest,Body Armor,ArmorTech Industries,Kevlar,2.5,5,NA,NIJ Level IIIA,Lightweight and Flexible,2010,15000,Personal Protection,High,Restricted
+2,Tactical Helmet,Head Gear,BattleShield Inc.,Kevlar and Polycarbonate,1.4,7,NA,NIJ Level IIIA,Adjustable Fit,2012,10000,Personal Protection,High,Restricted
+3,Bulletproof Jacket,Body Armor,SafeGuard Armor,Ceramic and Kevlar,3.0,5,NA,NIJ Level III,Multilayer Design,2015,20000,Personal Protection,High,Restricted
+4,Ceramic Plate Insert,Body Armor Accessory,DefenseCore Systems,Ceramic,2.0,5,30x25 cm,NIJ Level IV,Interchangeable Plates,2018,12000,Personal Protection,Medium,Restricted
+5,Ballistic Shields,Protective Shield,Tactical Armor Co.,Ceramic and Kevlar,8.0,10,100x60 cm,NIJ Level III,Integrated Viewing Window,2014,50000,Riot Control/Personal Protection,High,Restricted
+6,Elbow and Knee Pads,Protective Gear,ImpactProtect Solutions,High-Density Polymer,0.5,5,NA,None,Adjustable Straps,2011,5000,Riot Control/Public Safety,Medium,None
+7,Riot Control Helmet,Head Gear,RiotMaster Gear,Polycarbonate and Kevlar,1.6,6,NA,NIJ Level IIIA,Anti-Fog Visor,2013,12000,Riot Control,Medium,Restricted
+8,Full Body Armor Suit,Body Armor,EliteForce Systems,Ceramic and Kevlar,6.0,7,NA,NIJ Level IV,Coverage from Neck to Feet,2020,60000,Personal Protection/Combat,High,Restricted
+9,Flak Jacket,Body Armor,ArmorPro Solutions,Nylon and Steel,4.0,5,NA,Fragmentation Protection,Lightweight and Durable,2005,18000,Combat,Medium,Restricted
+10,Stab-Resistant Vest,Body Armor,StabShield Corp.,Steel Mesh and Kevlar,3.5,5,NA,Spike Protection,Slash-Resistant Coating,2017,25000,Personal Protection,Medium,Restricted
+11,Night Vision Goggles (NVG),Optical Device,VisionGuard Optics,Glass and Polymer,0.6,8,NA,Gen 3,Enhanced Night Vision,2015,30000,Combat/Security,High,Restricted
+12,Infrared Binoculars,Optical Device,InfraSight Technologies,Glass and Metal,1.2,10,NA,Infrared Detection,Long-Distance Viewing,2016,25000,Surveillance,Medium,Restricted
+13,Thermal Imaging Scopes,Optical Device,ThermoVision Systems,Glass and Metal,1.5,8,NA,High Sensitivity,Target Detection,2017,35000,Combat/Surveillance,High,Restricted
+14,Rangefinders,Optical Device,RangeMaster Precision,Glass and Metal,0.4,7,NA,Laser,Precise Distance Measurement,2018,15000,Combat/Outdoor,Medium,Restricted
+15,Holographic Weapon Sights,Sights,OpticTech Industries,Metal and Polymer,0.2,6,NA,Holographic Display,Quick Target Acquisition,2014,20000,Combat,Medium,Restricted
+16,Reflex Sights,Sights,PrecisionAim Solutions,Metal and Polymer,0.3,6,NA,Red Dot,Improved Aim,2013,12000,Combat,Medium,Restricted
+17,Laser Target Designators,Targeting Device,LaserPro Systems,Metal and Polymer,0.6,8,NA,Green Laser,Precision Targeting,2019,35000,Combat,High,Restricted
+18,Spotting Scopes,Optical Device,SpotOptics Technologies,Glass and Metal,0.8,8,NA,High Magnification,Long-Distance Targeting,2015,20000,Combat/Surveillance,Medium,Restricted
+19,Anti-Tank Missile Launcher,Weapon Systems,DefTech Industries,Steel and Composite,75.0,20,NA,High Explosive,Long-Range Targeting,2015,1200000,Combat,High,Restricted
+20,Armored Bus,Transport,SecureTransport Co.,Steel and Kevlar,12.0,15,NA,NIJ Level IV,Blast and Bullet Resistance,2010,4500000,Transport,Medium,Restricted
+21,Mobile Medical Unit,Medical,MedEquip Industries,Aluminum and Polymer,200.0,10,NA,Emergency Medical Support,Mobile Clinics,2015,15000000,Medical Support,High,Restricted
+22,Anti-Drone Shield,Defense,SafeGuard Technologies,Carbon Fiber,3.0,8,NA,Drone Interception,Signal Jammer,2018,500000,Defense,High,Restricted
+23,Portable Water Purifier,Survival Gear,WaterTech,Plastic and Ceramic,0.5,5,NA,Filtration,Compact and Lightweight,2015,8000,Survival,Medium,None
+24,Combat Vehicle,Transport,CombatTech,Steel and Titanium,2000.0,25,NA,NIJ Level IV,Heavy Armored Protection,2012,10000000,Combat,High,Restricted
+25,Armored Car,Transport,SecureTransport Co.,Steel and Kevlar,3.5,15,NA,NIJ Level IIIA,Bulletproof Windows,2010,3000000,Transport,Medium,Restricted
+26,Combat Knife,Weapon,SharpEdge Inc.,Stainless Steel,0.3,10,NA,Sharpness and Durability,Compact Design,2005,5000,Combat,Medium,None
+27,Anti-Riot Suit,Protective Gear,ProGuard Solutions,Kevlar and Steel,7.5,5,NA,Riot Protection,Full Coverage,2014,25000,Riot Control,Medium,Restricted
+28,Heavy Duty Generator,Power Equipment,PowerTech,Steel and Copper,150.0,15,NA,High Output,Portable Power Supply,2016,800000,Field Operations,High,None
+29,Military Tent,Field Equipment,FieldGear Ltd.,Canvas and Aluminum,30.0,10,10x10 m,Weatherproof,Quick Setup,2015,60000,Field Operations,Medium,None
+30,Armored Ambulance,Transport,SecureTransport Co.,Steel and Kevlar,5.0,10,NA,NIJ Level IIIA,Medical Transport,2013,4000000,Medical Support,High,Restricted
+31,Tactical Watch,Survival Gear,TimeMaster Inc.,Titanium,0.2,7,NA,Durable and Waterproof,Multi-Function,2017,25000,Survival,Medium,None
+32,Rescue Boat,Transport,RescueCraft,Aluminum and Rubber,10.0,10,5x3 m,Waterproof,Quick Deploy,2016,500000,Rescue Operations,High,None
+33,Mobile Water Tank,Field Equipment,WaterTech,Steel,1000.0,12,NA,High Capacity,Mobile Water Supply,2018,400000,Field Operations,Medium,None
+34,Armored Tank,Weapon Systems,CombatTech,Steel and Titanium,60000.0,30,NA,NIJ Level IV,Heavy Armor and Firepower,2012,100000000,Combat,High,Restricted
+35,Combat Boots,Protective Gear,FootGuard Inc.,Leather and Rubber,1.2,5,NA,Anti-Slip,Comfortable Fit,2011,8000,Combat,Medium,None
+36,Armored Helicopter,Aviation,HeliDefend Corp.,Aluminum and Steel,8000.0,25,NA,NIJ Level IV,Helicopter Armor and Gunship,2015,200000000,Combat,High,Restricted
+37,Anti-Tank Mine,Weapon Systems,DefTech Industries,Steel,10.0,10,NA,Explosive,Underground Deployment,2017,25000,Combat,High,Restricted
+38,Combat Knife,Weapon,SharpEdge Inc.,Stainless Steel,0.3,10,NA,Sharpness and Durability,Compact Design,2005,5000,Combat,Medium,None
+39,Armored Vehicle,Transport,CombatTech,Steel and Titanium,1500.0,25,NA,NIJ Level IV,Heavy Armored Protection,2010,5000000,Combat,High,Restricted
+40,Mobile Command Center,Command Center,TechSecure,Steel and Aluminum,300.0,20,NA,Secure Communication,Field HQ,2013,12000000,Command Operations,High,Restricted
+41,Combat Knife,Weapon,SharpEdge Inc.,Stainless Steel,0.3,10,NA,Sharpness and Durability,Compact Design,2005,5000,Combat,Medium,None
+42,Armored Truck,Transport,SecureTransport Co.,Steel and Kevlar,10.0,15,NA,NIJ Level IIIA,Bulletproof,2011,7000000,Transport,High,Restricted
+43,Surveillance Drone,Drone Systems,FlyTech Industries,Carbon Fiber,3.0,5,NA,High Definition Camera,Long Flight Duration,2018,1000000,Surveillance,High,Restricted
+44,Radio Communication Kit,Communication,CommTech,Plastic and Metal,2.5,7,NA,Long-Range Communication,Encrypted Signals,2015,100000,Field Operations,Medium,None
+45,Armored Helicopter,Aviation,HeliDefend Corp.,Aluminum and Steel,8000.0,25,NA,NIJ Level IV,Helicopter Armor and Gunship,2015,200000000,Combat,High,Restricted
+46,Combat Uniform,Apparel,CombatWear,Polyester and Kevlar,1.5,5,NA,Flame-Resistant,Durable and Lightweight,2010,15000,Combat,Medium,None
+47,Anti-Tank Missile Launcher,Weapon Systems,DefTech Industries,Steel and Composite,75.0,20,NA,High Explosive,Long-Range Targeting,2015,1200000,Combat,High,Restricted
+48,Armored Bus,Transport,SecureTransport Co.,Steel and Kevlar,12.0,15,NA,NIJ Level IV,Blast and Bullet Resistance,2010,4500000,Transport,Medium,Restricted
+49,Mobile Medical Unit,Medical,MedEquip Industries,Aluminum and Polymer,200.0,10,NA,Emergency Medical Support,Mobile Clinics,2015,15000000,Medical Support,High,Restricted
+50,Anti-Drone Shield,Defense,SafeGuard Technologies,Carbon Fiber,3.0,8,NA,Drone Interception,Signal Jammer,2018,500000,Defense,High,Restricted
+51,Bulletproof Shield,Defense,SecureTech,Kevlar,5.0,10,NA,Anti-Bullet Protection,Compact Design,2015,150000,Defense,High,Restricted
+52,Tactical Knee Guards,Protective Gear,ProGuard Solutions,Kevlar,1.0,5,NA,Knee Protection,Shock Absorbent,2014,10000,Combat,Medium,None
+53,Armored Helicopter,Aviation,HeliDefend Corp.,Aluminum and Steel,8000.0,25,NA,NIJ Level IV,Helicopter Armor and Gunship,2015,200000000,Combat,High,Restricted
+54,Tactical Knife,Weapon,SharpEdge Inc.,Stainless Steel,0.5,8,NA,Compact and Sharp,Ergonomic Grip,2016,7000,Combat,Medium,None
+55,Mobile Command Center,Command Center,TechSecure,Steel and Aluminum,300.0,20,NA,Secure Communication,Field HQ,2013,12000000,Command Operations,High,Restricted
+56,Armored Vehicle,Transport,CombatTech,Steel and Titanium,1500.0,25,NA,NIJ Level IV,Heavy Armored Protection,2010,5000000,Combat,High,Restricted
+57,Tactical Communication Kit,Communication,CommTech,Plastic and Metal,1.5,7,NA,Encrypted Communication,Portable,2017,75000,Field Operations,Medium,None
+58,Thermal Imaging Binoculars,Surveillance,VisionTech,Glass and Metal,0.8,10,NA,Heat Vision,Long-Range Viewing,2017,300000,Surveillance,High,None
+59,Armored Bus,Transport,SecureTransport Co.,Steel and Kevlar,12.0,15,NA,NIJ Level IV,Blast and Bullet Resistance,2010,4500000,Transport,Medium,Restricted
+60,Solar-Powered Radio,Communication,TechSolar,Plastic and Solar Panels,1.0,5,NA,Energy Efficient,Portable,2015,15000,Survival,Medium,None
+61,Portable Water Purifier,Survival Gear,WaterTech,Plastic and Ceramic,0.5,5,NA,Filtration,Compact and Lightweight,2015,8000,Survival,Medium,None
+62,Anti-Drone Shield,Defense,SafeGuard Technologies,Carbon Fiber,3.0,8,NA,Drone Interception,Signal Jammer,2018,500000,Defense,High,Restricted
+63,Military Tent,Field Equipment,FieldGear Ltd.,Canvas and Aluminum,30.0,10,10x10 m,Weatherproof,Quick Setup,2015,60000,Field Operations,Medium,None
+64,Combat Knife,Weapon,SharpEdge Inc.,Stainless Steel,0.3,10,NA,Sharpness and Durability,Compact Design,2005,5000,Combat,Medium,None
+65,Mobile Water Tank,Field Equipment,WaterTech,Steel,1000.0,12,NA,High Capacity,Mobile Water Supply,2018,400000,Field Operations,Medium,None
+66,Armored Tank,Weapon Systems,CombatTech,Steel and Titanium,60000.0,30,NA,NIJ Level IV,Heavy Armor and Firepower,2012,100000000,Combat,High,Restricted
+67,Combat Boots,Protective Gear,FootGuard Inc.,Leather and Rubber,1.2,5,NA,Anti-Slip,Comfortable Fit,2011,8000,Combat,Medium,None
+68,Armored Helicopter,Aviation,HeliDefend Corp.,Aluminum and Steel,8000.0,25,NA,NIJ Level IV,Helicopter Armor and Gunship,2015,200000000,Combat,High,Restricted
+69,Anti-Tank Mine,Weapon Systems,DefTech Industries,Steel,10.0,10,NA,Explosive,Underground Deployment,2017,25000,Combat,High,Restricted
+70,Combat Knife,Weapon,SharpEdge Inc.,Stainless Steel,0.3,10,NA,Sharpness and Durability,Compact Design,2005,5000,Combat,Medium,None
+71,Armored Vehicle,Transport,CombatTech,Steel and Titanium,1500.0,25,NA,NIJ Level IV,Heavy Armored Protection,2010,5000000,Combat,High,Restricted
+72,Mobile Command Center,Command Center,TechSecure,Steel and Aluminum,300.0,20,NA,Secure Communication,Field HQ,2013,12000000,Command Operations,High,Restricted
+73,Combat Knife,Weapon,SharpEdge Inc.,Stainless Steel,0.3,10,NA,Sharpness and Durability,Compact Design,2005,5000,Combat,Medium,None
+74,Armored Truck,Transport,SecureTransport Co.,Steel and Kevlar,10.0,15,NA,NIJ Level IIIA,"Bulletproof, Heavy Duty Transport",2011,7000000,Transport,High,Restricted
+75,Surveillance Drone,Drone Systems,FlyTech Industries,Carbon Fiber,3.0,5,NA,High Definition Camera,Long Flight Duration,2018,1000000,Surveillance,High,Restricted
+76,Radio Communication Kit,Communication,CommTech,Plastic and Metal,2.5,7,NA,Long-Range Communication,Encrypted Signals,2015,100000,Field Operations,Medium,None
+77,Armored Helicopter,Aviation,HeliDefend Corp.,Aluminum and Steel,8000.0,25,NA,NIJ Level IV,Helicopter Armor and Gunship,2015,200000000,Combat,High,Restricted
+78,Combat Uniform,Apparel,CombatWear,Polyester and Kevlar,1.5,5,NA,Flame-Resistant,Durable and Lightweight,2010,15000,Combat,Medium,None
+79,Anti-Tank Missile Launcher,Weapon Systems,DefTech Industries,Steel and Composite,75.0,20,NA,High Explosive,Long-Range Targeting,2015,1200000,Combat,High,Restricted
+80,Armored Bus,Transport,SecureTransport Co.,Steel and Kevlar,12.0,15,NA,NIJ Level IV,Blast and Bullet Resistance,2010,4500000,Transport,Medium,Restricted
+81,Mobile Medical Unit,Medical,MedEquip Industries,Aluminum and Polymer,200.0,10,NA,Emergency Medical Support,Mobile Clinics,2015,15000000,Medical Support,High,Restricted
+82,Anti-Drone Shield,Defense,SafeGuard Technologies,Carbon Fiber,3.0,8,NA,Drone Interception,Signal Jammer,2018,500000,Defense,High,Restricted
+83,Bulletproof Shield,Defense,SecureTech,Kevlar,5.0,10,NA,Anti-Bullet Protection,Compact Design,2015,150000,Defense,High,Restricted
+84,Tactical Knee Guards,Protective Gear,ProGuard Solutions,Kevlar,1.0,5,NA,Knee Protection,Shock Absorbent,2014,10000,Combat,Medium,None
+85,Armored Helicopter,Aviation,HeliDefend Corp.,Aluminum and Steel,8000.0,25,NA,NIJ Level IV,Helicopter Armor and Gunship,2015,200000000,Combat,High,Restricted
+86,Tactical Knife,Weapon,SharpEdge Inc.,Stainless Steel,0.5,8,NA,Compact and Sharp,Ergonomic Grip,2016,7000,Combat,Medium,None
+87,Mobile Command Center,Command Center,TechSecure,Steel and Aluminum,300.0,20,NA,Secure Communication,Field HQ,2013,12000000,Command Operations,High,Restricted
+88,Armored Vehicle,Transport,CombatTech,Steel and Titanium,1500.0,25,NA,NIJ Level IV,Heavy Armored Protection,2010,5000000,Combat,High,Restricted
+89,Tactical Communication Kit,Communication,CommTech,Plastic and Metal,1.5,7,NA,Encrypted Communication,Portable,2017,75000,Field Operations,Medium,None
+90,Thermal Imaging Binoculars,Surveillance,VisionTech,Glass and Metal,0.8,10,NA,Heat Vision,Long-Range Viewing,2017,300000,Surveillance,High,None
+91,Mobile Water Tank,Field Equipment,WaterTech,Steel,1000.0,12,NA,High Capacity,Mobile Water Supply,2018,400000,Field Operations,Medium,None
+92,Armored Tank,Weapon Systems,CombatTech,Steel and Titanium,60000.0,30,NA,NIJ Level IV,Heavy Armor and Firepower,2012,100000000,Combat,High,Restricted
+93,Tactical Communication Unit,Communication,CommTech,Plastic and Metal,2.0,7,NA,Encrypted Communication,Secure,2018,100000,Field Operations,Medium,None
+94,Anti-Tank Mine,Weapon Systems,DefTech Industries,Steel,10.0,10,NA,Explosive,Underground Deployment,2017,25000,Combat,High,Restricted
+95,Combat Vehicle,Transport,CombatTech,Steel and Titanium,2000.0,25,NA,NIJ Level IV,Heavy Armored Protection,2012,10000000,Combat,High,Restricted
+96,Armored Ambulance,Transport,SecureTransport Co.,Steel and Kevlar,5.0,10,NA,NIJ Level IIIA,Medical Transport,2013,4000000,Medical Support,High,Restricted
+97,Tactical Radio,Communication,CommTech,Plastic and Metal,1.0,7,NA,Long-Range Communication,Portable,2018,50000,Field Operations,Medium,None
+98,Portable Medical Kit,Medical,MedEquip Industries,Plastic and Metal,0.3,5,NA,First Aid,Compact Design,2015,10000,Medical Support,Medium,None
+99,Military Drone,Drone Systems,FlyTech Industries,Carbon Fiber,4.0,5,NA,Surveillance and Reconnaissance,Long Range,2019,1500000,Surveillance,High,Restricted
+100,Armored Transport Vehicle,Transport,SecureTransport Co.,Steel and Kevlar,18.0,15,NA,NIJ Level IIIA,Heavy Duty Transport,2010,8000000,Transport,High,Restricted

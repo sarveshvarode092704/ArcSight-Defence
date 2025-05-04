@@ -1,0 +1,71 @@
+Grenade ID,Name,Type,Material,Weight (kg),Explosive Type,Blast Radius (m),Safety Mechanism,Activation Mechanism,Usage,Country of Origin,Introduced Year,Effectiveness (%),Price (INR),Operational Environment,Durability (years),Popularity,Legal Restrictions
+1,FM-1,Fragmentation,Steel,0.45,TNT,15,Pull Pin,Impact,Combat,India,1995,90,1200,Urban/Combat,5,High,Restricted
+2,FM-2,Fragmentation,Steel,0.45,TNT,20,Pull Pin,Impact,Combat,India,1995,90,1300,Urban/Combat,5,High,Restricted
+3,Hand Grenade,Fragmentation,Steel,0.55,RDX,20,Pull Pin,Impact,Combat,India,1980,95,1500,Urban/Combat,5,High,Restricted
+4,Smoke Grenade,Smoke,Plastic,0.45,TNT,NA,Pull Pin,Impact,Riot Control,India,2000,80,1000,Urban/Riot,3,High,Restricted
+5,Stun Grenade,Stun,Aluminum,0.40,TNT,NA,Pull Pin,Impact,Riot Control,India,2005,85,1200,Urban/Riot,4,Medium,Restricted
+6,Concussion Grenade,Concussion,Steel,0.50,RDX,25,Pull Pin,Impact,Combat,India,2010,90,1500,Urban/Combat,5,High,Restricted
+7,Chemical Grenade,Chemical,Aluminum,0.55,RDX,30,Pull Pin,Impact,Chemical Warfare,India,2015,75,2000,Urban/Combat,5,High,Restricted
+8,Flashbang Grenade,Stun,Aluminum,0.35,TNT,NA,Pull Pin,Impact,Riot Control,India,2010,80,1000,Urban/Riot,3,High,Restricted
+9,CS Grenade,Chemical,Steel,0.50,CS Gas,NA,Pull Pin,Impact,Chemical Warfare,India,2008,70,900,Urban/Riot,5,Medium,Restricted
+10,Incendiary Grenade,Incendiary,Steel,0.55,TNT,15,Pull Pin,Impact,Combat,India,1999,85,1800,Urban/Combat,4,High,Restricted
+11,Stun Grenade (Flashbang),Stun,Aluminum,0.45,TNT,NA,Pull Pin,Impact,Riot Control,India,2012,80,1100,Urban/Riot,4,Medium,Restricted
+12,White Phosphorus Grenade,Incendiary,Steel,0.50,White Phosphorus,20,Pull Pin,Impact,Combat,India,2000,70,2000,Urban/Combat,6,High,Restricted
+13,Gas Grenade,Chemical,Aluminum,0.60,CS Gas,NA,Pull Pin,Impact,Chemical Warfare,India,2013,75,1500,Urban/Combat,5,Medium,Restricted
+14,Tear Gas Grenade,Chemical,Steel,0.50,CS Gas,NA,Pull Pin,Impact,Riot Control,India,2015,80,1200,Urban/Riot,4,High,Restricted
+15,Flashbang Grenade (Tactical),Stun,Aluminum,0.40,TNT,NA,Pull Pin,Impact,Riot Control,India,2015,85,1300,Urban/Riot,4,High,Restricted
+16,Cluster Grenade,Fragmentation,Steel,0.70,TNT,25,Pull Pin,Impact,Combat,India,2000,85,1800,Urban/Combat,6,Medium,Restricted
+17,Smoke Grenade (Tactical),Smoke,Plastic,0.50,TNT,NA,Pull Pin,Impact,Combat,India,2010,80,1200,Urban/Combat,4,Medium,Restricted
+18,Incendiary Smoke Grenade,Incendiary,Steel,0.65,TNT,15,Pull Pin,Impact,Combat,India,2012,75,1700,Urban/Combat,5,High,Restricted
+19,Signal Grenade,Signal,Steel,0.45,TNT,NA,Pull Pin,Impact,Signaling,India,2008,85,1300,Open Field,5,Low,Restricted
+20,M99 Smoke Grenade,Smoke Grenade,Smoke,0.28,Smoke,30,Safety Pin,Pull Pin,Covering,USA,1995,80,1600,Combat,5,Medium,Restricted
+21,S-2 Grenade,Stun Grenade,Flash Powder,0.19,Stun,5,Safety Pin,Pull Pin,Tactical,USA,1980,90,1800,Urban,5,High,Restricted
+22,M26A1 Grenade,Fragmentation Grenade,High Explosive,0.2,High Explosive,15,Safety Pin,Pull Pin,Combat,USA,1975,85,2100,Combat,5,Medium,Restricted
+23,T14A1 Grenade,Smoke Grenade,Smoke,0.3,Smoke,25,Safety Pin,Pull Pin,Covering,USA,1980,80,1700,Combat,5,Medium,Restricted
+24,M79 Grenade,Fragmentation Grenade,High Explosive,0.25,High Explosive,20,Safety Pin,Pull Pin,Combat,USA,1985,85,2100,Combat,5,Medium,Restricted
+25,RPG-18 Grenade,Anti-Tank Grenade,High Explosive,2.1,Anti-Tank,60,Safety Pin,Trigger Mechanism,Combat,Russia,1985,95,25000,Combat,10,High,Restricted
+26,Pineapple Hand Grenade,Fragmentation Grenade,High Explosive,0.3,High Explosive,20,Safety Pin,Pull Pin,Combat,USA,1910,90,2200,Combat,5,Medium,Restricted
+27,M10A2 Grenade,Smoke Grenade,Smoke,0.3,Smoke,25,Safety Pin,Pull Pin,Covering,USA,1985,80,1800,Combat,5,Medium,Restricted
+28,T3A1 Grenade,Chemical,CS Gas,0.3,Chemical,10,Safety Pin,Pull Pin,Crowd Control,USA,1985,75,2100,Crowd Control,5,Low,Restricted
+29,M61A2 Grenade,Fragmentation Grenade,High Explosive,0.25,High Explosive,15,Safety Pin,Pull Pin,Combat,USA,1980,85,2000,Combat,5,Medium,Restricted
+30,RPG-16 Grenade,Anti-Tank Grenade,High Explosive,2.5,Anti-Tank,50,Safety Pin,Trigger Mechanism,Combat,Russia,1970,95,26000,Combat,10,High,Restricted
+31,M65 Grenade,Fragmentation Grenade,High Explosive,0.3,High Explosive,20,Safety Pin,Pull Pin,Combat,USA,1970,85,2200,Combat,5,Medium,Restricted
+32,BBQ Grenade,Incendiary Grenade,White Phosphorus,0.35,Incendiary,10,Safety Pin,Pull Pin,Tactical,USA,1990,80,2300,Tactical,5,Low,Restricted
+33,X-36 Grenade,Fragmentation Grenade,High Explosive,0.2,High Explosive,15,Safety Pin,Pull Pin,Combat,USA,1995,85,2100,Combat,5,Medium,Restricted
+34,AKG-10 Grenade,Anti-Tank Grenade,High Explosive,2.6,Anti-Tank,55,Safety Pin,Trigger Mechanism,Combat,USA,1988,95,27500,Combat,10,High,Restricted
+35,FLR-4 Grenade,Flashbang Grenade,Flash Powder,0.19,Stun,10,Safety Pin,Pull Pin,Tactical,USA,1990,95,1900,Urban,5,High,Restricted
+36,M56 Grenade,Fragmentation Grenade,High Explosive,0.2,High Explosive,15,Safety Pin,Pull Pin,Combat,USA,1970,85,2100,Combat,5,Medium,Restricted
+37,F2 Grenade,Smoke Grenade,Smoke,0.3,Smoke,30,Safety Pin,Pull Pin,Covering,USA,1980,80,1700,Combat,5,Medium,Restricted
+38,Thunderflash Grenade,Stun Grenade,Flash Powder,0.19,Stun,5,Safety Pin,Pull Pin,Tactical,USA,1995,90,2000,Urban,5,High,Restricted
+39,V10 Grenade,Chemical,CS Gas,0.3,Chemical,10,Safety Pin,Pull Pin,Crowd Control,USA,1990,75,2200,Crowd Control,5,Low,Restricted
+40,MK7A1 Grenade,Fragmentation Grenade,High Explosive,0.25,High Explosive,20,Safety Pin,Pull Pin,Combat,USA,1990,85,2000,Combat,5,Medium,Restricted
+41,C-4 Grenade,Incendiary Grenade,White Phosphorus,0.35,Incendiary,10,Safety Pin,Pull Pin,Tactical,USA,1995,80,2400,Tactical,5,Low,Restricted
+42,K9 Grenade,Chemical,CS Gas,0.3,Chemical,10,Safety Pin,Pull Pin,Crowd Control,USA,1995,75,2300,Crowd Control,5,Low,Restricted
+43,M35 Grenade,Fragmentation Grenade,High Explosive,0.2,High Explosive,15,Safety Pin,Pull Pin,Combat,USA,1975,85,2200,Combat,5,Medium,Restricted
+44,Fragmentation Grenade M5,Fragmentation Grenade,High Explosive,0.25,High Explosive,20,Safety Pin,Pull Pin,Combat,USA,1980,85,2000,Combat,5,Medium,Restricted
+45,M84 Stun Grenade,Stun Grenade,Flash Powder,0.2,Stun,5,Safety Pin,Pull Pin,Tactical,USA,1980,85,1700,Urban,5,High,Restricted
+46,RPG-7 Grenade,Anti-Tank Grenade,High Explosive,2.1,Anti-Tank,60,Safety Pin,Trigger Mechanism,Combat,Russia,1985,95,25000,Combat,10,High,Restricted
+47,L17A1,CS Gas Grenade,CS Gas,0.3,Chemical,10,Safety Pin,Pull Pin,Crowd Control,UK,1980,80,2000,Crowd Control,5,Low,Restricted
+48,M26 Grenade,Fragmentation Grenade,High Explosive,0.25,High Explosive,20,Safety Pin,Pull Pin,Combat,USA,1975,85,2100,Combat,5,Medium,Restricted
+49,M67 Grenade,Fragmentation Grenade,High Explosive,0.2,High Explosive,15,Safety Pin,Pull Pin,Combat,USA,1970,85,2000,Combat,5,Medium,Restricted
+50,AN-M14,Fragmentation Grenade,High Explosive,0.25,High Explosive,20,Safety Pin,Pull Pin,Combat,USA,1980,85,2100,Combat,5,Medium,Restricted
+51,M25 Grenade,Incendiary Grenade,White Phosphorus,0.3,Incendiary,10,Safety Pin,Pull Pin,Tactical,USA,1985,80,2300,Tactical,5,Low,Restricted
+52,M18 Smoke Grenade,Smoke Grenade,Smoke,0.28,Smoke,30,Safety Pin,Pull Pin,Covering,USA,1990,80,1600,Combat,5,Medium,Restricted
+53,M84 Flashbang Grenade,Flashbang Grenade,Flash Powder,0.19,Stun,10,Safety Pin,Pull Pin,Tactical,USA,1990,95,1900,Urban,5,High,Restricted
+54,L2A2 Grenade,Fragmentation Grenade,High Explosive,0.25,High Explosive,20,Safety Pin,Pull Pin,Combat,UK,1980,85,2000,Combat,5,Medium,Restricted
+55,AN-M8 HC Grenade,Smoke Grenade,Smoke,0.3,Smoke,25,Safety Pin,Pull Pin,Covering,USA,1985,80,1700,Combat,5,Medium,Restricted
+56,V40P Grenade,Fragmentation Grenade,High Explosive,0.3,High Explosive,15,Safety Pin,Pull Pin,Combat,USA,1995,85,2100,Combat,5,Medium,Restricted
+57,PG-7 Grenade,Anti-Tank Grenade,High Explosive,2.5,Anti-Tank,50,Safety Pin,Trigger Mechanism,Combat,Russia,1970,95,26000,Combat,10,High,Restricted
+58,Grenade M84,Flashbang Grenade,Flash Powder,0.19,Stun,10,Safety Pin,Pull Pin,Tactical,USA,1980,95,1900,Urban,5,High,Restricted
+59,F1 Hand Grenade,Fragmentation Grenade,High Explosive,0.25,High Explosive,20,Safety Pin,Pull Pin,Combat,France,1916,90,2200,Combat,5,Medium,Restricted
+60,M22 Fragmentation Grenade,Fragmentation Grenade,High Explosive,0.2,High Explosive,15,Safety Pin,Pull Pin,Combat,USA,1916,85,2000,Combat,5,Medium,Restricted
+61,M11A2,Incendiary Grenade,White Phosphorus,0.3,Incendiary,10,Safety Pin,Pull Pin,Tactical,USA,1990,80,2300,Tactical,5,Low,Restricted
+62,M25A2,Chemical Grenade,CS Gas,0.3,Chemical,10,Safety Pin,Pull Pin,Crowd Control,USA,1985,75,2100,Crowd Control,5,Low,Restricted
+63,Tear Gas Canister,Chemical,CS Gas,0.3,Chemical,10,Safety Pin,Pull Pin,Crowd Control,USA,1985,75,2100,Crowd Control,5,Low,Restricted
+64,HE-36 Grenade,High-Explosive Grenade,High Explosive,0.25,High Explosive,15,Safety Pin,Pull Pin,Combat,USA,1980,85,2000,Combat,5,Medium,Restricted
+65,M2A2 Grenade,Smoke Grenade,Smoke,0.3,Smoke,25,Safety Pin,Pull Pin,Covering,USA,1985,80,1700,Combat,5,Medium,Restricted
+66,M27 Grenade,Smoke Grenade,Smoke,0.3,Smoke,25,Safety Pin,Pull Pin,Covering,USA,1990,80,1800,Combat,5,Medium,Restricted
+67,L85A1 Grenade,Flashbang Grenade,Flash Powder,0.19,Stun,10,Safety Pin,Pull Pin,Tactical,UK,1980,95,1900,Urban,5,High,Restricted
+68,Grenade M2,Fragmentation Grenade,High Explosive,0.25,High Explosive,20,Safety Pin,Pull Pin,Combat,USA,1985,85,2000,Combat,5,Medium,Restricted
+69,PG-9 Grenade,Anti-Tank Grenade,High Explosive,2.6,Anti-Tank,55,Safety Pin,Trigger Mechanism,Combat,USA,1988,95,27500,Combat,10,High,Restricted
+70,M26A2 Grenade,Fragmentation Grenade,High Explosive,0.3,High Explosive,20,Safety Pin,Pull Pin,Combat,USA,1980,85,2100,Combat,5,Medium,Restricted

@@ -1,0 +1,14 @@
+Weapon ID,Name,Type,Manufacturer/Brand,Caliber,Barrel Length (mm),Effective Range (m),Magazine Capacity,Weight (kg),Material,Action Type,Usage,Introduced Year,Price (INR),Popularity,Legal Restrictions
+1,INSAS Rifle,Assault Rifle,OFB (Ordnance Factory),5.56×45 mm,464,400,20,4.15,"Polymer, Steel","Semi-auto, Auto","Military, Police",1998,80000,High,Restricted to Armed Forces
+2,AK-203,Assault Rifle,Kalashnikov + OFB,7.62×39 mm,415,300,30,3.8,"Steel, Composite","Auto, Semi-auto","Military, Law Enforcement",2022,85000,Very High,Restricted to Armed Forces
+3,Glock 17,Handgun,Glock (Imported),9×19 mm,114,50,17,0.625,Polymer,Semi-auto,"Self-defense, Police",1982,200000,Moderate,Civilian license required
+4,MP5,SMG,Heckler & Koch (Imported),9×19 mm,225,200,30,2.5,Steel,"Semi-auto, Burst",Law Enforcement,1966,350000,High,Restricted to Law Enforcement
+5,IOF .32 Revolver,Revolver,Indian Ordnance Factory,.32 S&W Long,89,22,6,0.7,Steel,Double-Action,"Civilian, Personal",1960,79000,High,Civilian license required
+6,Dragunov SVD,Sniper Rifle,Kalashnikov Concern,7.62×54 mmR,620,800,10,4.3,"Steel, Wood",Semi-auto,"Military, Police",1963,200000,High,Restricted to Armed Forces
+7,Barrett M82,Sniper Rifle,Barrett Firearms,.50 BMG,737,1800,10,14.0,"Steel, Polymer",Semi-auto,"Military, Special Forces",1982,6000000,Very High,Restricted to Armed Forces
+8,Mossberg 500,Shotgun,Mossberg,12 Gauge,470,40,6,3.2,"Steel, Polymer",Pump-action,"Hunting, Home Defense",1961,60000,High,Civilian license required
+9,Beretta 92FS,Handgun,Beretta,9×19 mm,125,50,15,0.95,Steel,Semi-auto,"Military, Police",1975,150000,High,Civilian license required
+10,Colt M1911,Handgun,Colt's Manufacturing Company,.45 ACP,127,50,7,1.1,Steel,Single-action,"Military, Civilian",1911,120000,Very High,Civilian license required
+11,Uzi,SMG,IMI (Israel Military Industries),9×19 mm,260,200,32,3.5,Steel,"Blowback, Auto","Military, Law Enforcement",1950,250000,High,Restricted to Armed Forces
+12,M4 Carbine,Carbine,Colt,5.56×45 mm,370,500,30,2.88,"Aluminum, Polymer","Gas-operated, Semi-auto, Auto","Military, Special Forces",1994,180000,Very High,Restricted to Armed Forces
+13,M203 Grenade Launcher,Grenade Launcher,Colt,40×46 mm,305,150,1,1.36,"Steel, Polymer",Single-shot,Military,1969,500000,High,Restricted to Armed Forces

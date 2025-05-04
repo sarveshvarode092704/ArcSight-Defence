@@ -1,0 +1,246 @@
+Weapon ID,Name,Type,Manufacturer/Brand,Caliber,Barrel Length (mm),Effective Range (m),Magazine Capacity,Weight (kg),Material,Action Type,Usage,Introduced Year,Price (INR),Popularity,Legal Restrictions
+1,"INSAS Rifle","Assault Rifle","Ordnance Factory Board (OFB), India","5.56×45mm",464,400,20,4.15,"Steel and polymer","Gas-operated, rotating bolt","Standard service rifle of the Indian Armed Forces",1998,"33000",Widely used within India,"Restricted to military use"
+2,"AK-47","Assault Rifle","Kalashnikov Concern, Russia","7.62×39mm",415,350,30,3.47,"Steel and wood","Gas-operated, rotating bolt","Widely used by military forces worldwide",1949,"50000","Extremely high globally","Restricted or prohibited in many countries"
+3,"AK-56","Assault Rifle","Norinco, China","7.62×39mm",415,300,30,3.8,"Steel and wood","Gas-operated, rotating bolt","Used by various military and insurgent groups",1956,"45000","High in regions with Chinese military influence","Restricted or prohibited in many countries"
+4,"AK-74","Assault Rifle","Kalashnikov Concern, Russia","5.45×39mm",415,500,30,3.07,"Steel and polymer","Gas-operated, rotating bolt","Standard issue rifle for Soviet and Russian forces",1974,"163689","Widely used in former Soviet states","Restricted or prohibited in many communtries"
+5,AK-103,Assault Rifle,Izhevsk Mechanical Plant,5.45×39mm,415,500,30,3.4,Steel,Gas-operated,Military/Defense,2001,200000,High,Restricted in certain countries
+6,AK-12,Assault Rifle,Izhevsk Mechanical Plant,5.45×39mm,415,500,30,3.8,Steel,Gas-operated,Military/Defense,2012,220000,High,Restricted in certain countries
+7,AKM,Assault Rifle,Izhevsk Mechanical Plant,7.62×39mm,415,400,30,3.1,Steel,Gas-operated,Military/Defense,1959,170000,High,Restricted in certain countries
+8,IWI Tavor X95,Assault Rifle,Israel Weapon Industries,5.56×45mm,380,500,30,3.2,Polymer,Gas-operated,Military/Defense,2009,250000,High,Restricted in certain countries
+9,IWI X95,Assault Rifle,Israel Weapon Industries,5.56×45mm,380,500,30,3.2,Polymer,Gas-operated,Military/Defense,2009,250000,High,Restricted in certain countries
+10,SIG SG 551,Assault Rifle,Swiss Arms,5.56×45mm,460,550,20,3.8,Steel,Gas-operated,Military/Defense,1991,300000,High,Restricted in certain countries
+11,SIG SG 550,Assault Rifle,Swiss Arms,5.56×45mm,510,550,30,4,Steel,Gas-operated,Military/Defense,1990,300000,High,Restricted in certain countries
+12,Beretta AR70/90,Assault Rifle,Beretta,5.56×45mm,460,500,30,3.9,Steel/Polymer,Gas-operated,Military/Defense,1990,230000,High,Restricted in certain countries
+13,Beretta ARX160,Assault Rifle,Beretta,5.56×45mm,415,500,30,3.4,Polymer/Aluminum,Gas-operated,Military/Defense,2008,240000,High,Restricted in certain countries
+14,Colt M16A1,Assault Rifle,Colt,5.56×45mm,508,550,20,3.5,Steel,Gas-operated,Military/Defense,1964,150000,High,Restricted in certain countries
+15,Colt M16A2,Assault Rifle,Colt,5.56×45mm,508,550,20,3.5,Steel,Gas-operated,Military/Defense,1983,170000,High,Restricted in certain countries
+16,Colt M16A4,Assault Rifle,Colt,5.56×45mm,508,600,30,3.5,Steel,Gas-operated,Military/Defense,1999,200000,High,Restricted in certain countries
+17,Heckler & Koch G36,Assault Rifle,Heckler & Koch,5.56×45,480,600,30,3.6,Polymer,Gas-operated,Military/Defense,1997,250000,High,Restricted in certain countries
+18,G3A3,Assault Rifle,Heckler & Koch,7.62×51mm,450,400,20,4.3,Steel,Gas-operated,Military/Defense,1960,200000,High,Restricted in certain countries
+19,Heckler & Koch HK416,Assault Rifle,Heckler & Koch,5.56×45mm,415,600,30,3.4,Polymer/Steel,Gas-operated,Military/Defense,2004,300000,High,Restricted in certain countries
+20,Heckler & Koch HK417,Assault Rifle,Heckler & Koch,7.62×51mm,420,600,20,4.5,Steel/Polymer,Gas-operated,Military/Defense,2007,350000,High,Restricted in certain countries
+21,M1 Carbine,Carbine,Inland Division, .30 Carbine, 460, 300, 15, 2.5, Steel/wood, Gas-operated, Military/Defense, 1941, 100000, Moderate, Restricted in certain countries
+22,M14 Rifle,Rifle,Springfield Armory,7.62×51mm NATO,560,800,20,4.3,Steel, Gas-operated, Military/Defense, 1957, 170000, High, Restricted in certain countries
+23,F2000 Tactical,Assault Rifle,FN Herstal,5.56×45mm NATO,330,500,30,3.6,Polymer, Gas-operated, Military/Defense, 2001, 250000, High, Restricted in certain countries
+24,Sturmgewehr 44 (STG-44),Assault Rifle,Haenel,7.92×33mm Kurz,420,300,30,4.3,Steel, Gas-operated, Military/Defense, 1944, 120000, Moderate, Restricted in certain countries
+25,F88 Austeyr,Assault Rifle,Thales,5.56×45mm NATO,508,500,30,3.6,Polymer, Gas-operated, Military/Defense, 1988, 210000, High, Restricted in certain countries
+26,L85A2,Assault Rifle,Heckler & Koch,5.56×45mm NATO,518,600,30,4.5,Steel/Polymer, Gas-operated, Military/Defense, 1985, 220000, High, Restricted in certain countries
+27,IWI Galil ACE,Assault Rifle,Israel Weapon Industries,5.56×45mm NATO,368,500,30,3.3,Polymer, Gas-operated, Military/Defense, 2008, 250000, High, Restricted in certain countries
+28,M4 Carbine,Assault Rifle,Colt,5.56×45mm NATO,508,500,30,3.3,Steel, Gas-operated, Military/Defense, 1994, 200000, High, Restricted in certain countries
+29,Tavor TAR-21,Assault Rifle,Israel Weapon Industries,5.56×45mm NATO,460,500,30,3.3,Polymer/Steel, Gas-operated, Military/Defense, 1995, 230000, High, Restricted in certain countries
+30,Vektor R4,Assault Rifle,Vektor,5.56×45mm NATO,460,500,35,4.1,Steel/Polymer, Gas-operated, Military/Defense, 1980, 230000, Moderate, Restricted in certain countries
+31,FNC-2000,Assault Rifle,FN Herstal,5.56×45mm NATO,460,600,30,3.5,Polymer, Gas-operated, Military/Defense, 2000,240000, High, Restricted in certain countries
+32,VZ 58,Assault Rifle,Czech Small Arms,7.62×39mm,450,400,30,3.1,Steel, Gas-operated, Military/Defense, 1958, 160000, Moderate, Restricted in certain countries
+33,M1 Garand,Rifle,Springfield Armory, .30-06 Springfield, 610, 500, 8, 4.3, Steel/Wood, Gas-operated, Military/Defense, 1936, 120000, High, Restricted in certain countries
+34,FN F2000,Assault Rifle,FN Herstal,5.56×45mm NATO,380,500,30,3.6,Polymer, Gas-operated, Military/Defense, 2001, 250000, High, Restricted in certain countries
+35,AK-63F,Assault Rifle,Sturm Ruger & Co.,5.56×45mm NATO,415,500,30,3.4,Steel, Gas-operated, Military/Defense, 1963, 180000, High, Restricted in certain countries
+36,IMI M1 Galil,Assault Rifle,Israel Military Industries,5.56×45mm NATO,450,500,35,3.6,Steel/Polymer, Gas-operated, Military/Defense, 1972, 250000, High, Restricted in certain countries
+37,FNFAL (FAL),Rifle,FN Herstal,7.62×51mm NATO,500,600,20,4.3,Steel, Gas-operated, Military/Defense, 1953, 230000, High, Restricted in certain countries
+38,M16A2 (US),Assault Rifle,Colt,5.56×45mm NATO,508,550,20,3.5,Steel, Gas-operated, Military/Defense, 1983, 170000, High, Restricted in certain countries
+39,F2000,Assault Rifle,FN Herstal,5.56×45mm NATO,380,500,30,3.6,Polymer, Gas-operated, Military/Defense, 2001, 250000, High, Restricted in certain countries
+40,Heckler & Koch MP5,Submachine Gun,Heckler & Koch,9×19mm Parabellum,200,200,30,2.5,Steel/Polymer, Blowback, Military/Defense, 1966, 250000, High, Restricted in certain countries
+41,IWI Uzi Pro,Submachine Gun,Israel Weapon Industries,9×19mm Parabellum,230,200,25,1.8,Polymer, Blowback, Military/Defense, 2010, 150000, High, Restricted in certain countries
+42,Brügger & Thomet MP9,Submachine Gun,Brügger & Thomet,9×19mm Parabellum,200,150,30,2.2,Steel/Polymer, Blowback, Military/Defense, 1999, 180000, High, Restricted in certain countries
+43,ASMI,Submachine Gun,Unknown,9×19mm Parabellum,180,150,30,2.3,Steel/Polymer, Blowback, Military/Defense, Unknown, 120000, Moderate, Restricted in certain countries
+44,Taurus T9,Handgun,Taurus,9×19mm Parabellum,120,50,17,0.8,Steel, Semi-automatic, Civilian, 2010, 35000, Moderate, No major restrictions
+45,CZ Scorpion Evo 3,Submachine Gun,CZ,9×19mm Parabellum,200,200,20,2.6,Polymer, Blowback, Military/Defense, 2009, 250000, High, Restricted in certain countries
+46,Sterling Submachine Gun,Submachine Gun,John Inglis & Co.,9×19mm Parabellum,250,200,34,3.1,Steel, Blowback, Military/Defense, 1944, 100000, Moderate, Restricted in certain countries
+47,Beretta M12,Submachine Gun,Beretta,9×19mm Parabellum,230,150,30,3.4,Steel, Blowback, Military/Defense, 1960, 80000, High, Restricted in certain countries
+48,M3 Grease Gun,Submachine Gun,General Motors, .45 ACP,200,150,30,3.5,Steel, Blowback, Military/Defense, 1942, 60000, High, Restricted in certain countries
+49,Browning M1911,Handgun,Browning, .45 ACP,140,50,7,1.1,Steel, Semi-automatic, Military/Defense, 1911, 35000, High, Restricted in certain countries
+50,Makarov PM,Handgun,Izmash, 9×18mm Makarov,150,50,8,0.8,Steel, Semi-automatic, Military/Defense, 1951, 25000, Moderate, Restricted in certain countries
+51,IMI Micro Uzi,Submachine Gun,Israel Military Industries,9×19mm Parabellum,160,150,20,1.5,Steel/Polymer, Blowback, Military/Defense, 1980, 200000, High, Restricted in certain countries
+52,PP-19 Bizon,Submachine Gun,Izmash,9×18mm Makarov,200,200,64,2.5,Steel, Blowback, Military/Defense, 1996, 90000, High, Restricted in certain countries
+53,Beretta PX4 Storm,Handgun,Beretta,9×19mm Parabellum,130,50,17,0.9,Steel/Polymer, Semi-automatic, Civilian, 2004, 40000, High, No major restrictions
+54,Mac-10,Submachine Gun,Military Armament Corporation, .45 ACP,200,150,30,2.3,Steel, Blowback, Military/Defense, 1964, 150000, High, Restricted in certain countries
+55,Ruger AC556F,Assault Rifle,Ruger,5.56×45mm NATO,400,500,20,3.2,Steel/Polymer, Gas-operated, Military/Defense, 1979, 150000, High, Restricted in certain countries
+56,Heckler & Koch MP7A1,Submachine Gun,Heckler & Koch,4.6×30mm,180,200,20,2.2,Steel/Polymer, Gas-operated, Military/Defense, 2001, 220000, High, Restricted in certain countries
+57,IMI Uzi,Submachine Gun,Israel Military Industries,9×19mm Parabellum,250,200,32,3.5,Steel, Blowback, Military/Defense, 1954, 180000, High, Restricted in certain countries
+58,Thompson M1A1,Submachine Gun,Auto-Ordnance, .45 ACP,300,200,20,3.6,Steel, Blowback, Military/Defense, 1942, 130000, High, Restricted in certain countries
+59,Vector Uzi,Submachine Gun,Vector Arms,9×19mm Parabellum,250,200,32,3.4,Steel/Polymer, Blowback, Military/Defense, 1980s, 150000, High, Restricted in certain countries
+60,FNP-45 Tactical,Handgun,FN Herstal, .45 ACP,120,50,15,0.9,Steel/Polymer, Semi-automatic, Civilian, 2007, 60000, High, No major restrictions
+61,Steyr TMP,Submachine Gun,Steyr Mannlicher,9×19mm Parabellum,250,200,30,2.5,Steel/Polymer, Blowback, Military/Defense, 1990, 180000, High, Restricted in certain countries
+62,Mac-11,Submachine Gun,Military Armament Corporation, .380 ACP,150,100,20,2.2,Steel, Blowback, Military/Defense, 1970, 120000, High, Restricted in certain countries
+63,Sten Gun,Submachine Gun,Enfield,9×19mm Parabellum,200,150,32,3.4,Steel, Blowback, Military/Defense, 1941, 50000, Moderate, Restricted in certain countries
+64,Heckler & Koch MP5K,Submachine Gun,Heckler & Koch,9×19mm Parabellum,160,150,30,2.5,Steel/Polymer, Blowback, Military/Defense, 1985, 200000, High, Restricted in certain countries
+65,Magpul FMG9,Submachine Gun,Magpul Industries,9×19mm Parabellum,180,150,20,1.5,Polymer, Blowback, Military/Defense, 2010, 150000, High, Restricted in certain countries
+66,HK UMP9,Submachine Gun,Heckler & Koch,9×19mm Parabellum,200,200,25,2.3,Steel/Polymer, Blowback, Military/Defense, 1999, 220000, High, Restricted in certain countries
+67,SIG MPX,Submachine Gun,Sig Sauer,9×19mm Parabellum,200,200,30,2.6,Steel/Polymer, Gas-operated, Military/Defense, 2011, 250000, High, Restricted in certain countries
+68,M16/22 Machine Pistol,Machine Pistol,Colt,5.56×45mm NATO,350,400,20,3.3,Steel, Gas-operated, Military/Defense, 1980s, 160000, High, Restricted in certain countries
+69,MPL-57,Submachine Gun,MPL,9×19mm Parabellum,200,150,30,2.4,Steel, Blowback, Military/Defense, 1957, 100000, Moderate, Restricted in certain countries
+70,Fiocchi H&K UMP45,Submachine Gun,Heckler & Koch, .45 ACP,250,150,25,2.6,Steel/Polymer, Blowback, Military/Defense, 2000, 230000, High, Restricted in certain countries
+71,Colt SMG,Submachine Gun,Colt,9×19mm Parabellum,200,150,30,3.0,Steel, Blowback, Military/Defense, 1960s, 130000, High, Restricted in certain countries
+72,M1911A1 Submachine Gun,Submachine Gun,Colt, .45 ACP,230,150,20,3.5,Steel, Blowback, Military/Defense, 1945, 140000, High, Restricted in certain countries
+73,INSAS LMG,Light Machine Gun,Indian Ordnance Factory,5.56×45mm NATO,460,500,30,4.5,Steel/Polymer, Gas-operated, Military/Defense, 1990, 80000, Moderate, Restricted in certain countries
+74,M249 Light Machine Gun,Light Machine Gun,Colt,5.56×45mm NATO,460,600,200,7.5,Steel, Gas-operated, Military/Defense, 1984, 150000, High, Restricted in certain countries
+75,Bren LMG,Light Machine Gun,Enfield,7.62×51mm NATO,600,800,30,10.5,Steel, Gas-operated, Military/Defense, 1930, 100000, High, Restricted in certain countries
+76,RPD LMG,Light Machine Gun,Izmash,7.62×39mm,800,700,100,7.0,Steel, Gas-operated, Military/Defense, 1944, 80000, High, Restricted in certain countries
+77,MG3,Machine Gun,Heckler & Koch,7.62×51mm NATO,1200,1200,50,11.0,Steel, Gas-operated, Military/Defense, 1967, 200000, High, Restricted in certain countries
+78,M1919 Browning,Machine Gun,Colt, .30-06 Springfield,1050,1500,250,14.5,Steel, Gas-operated, Military/Defense, 1919, 150000, High, Restricted in certain countries
+79,Negev NG7,Light Machine Gun,Israel Military Industries,5.56×45mm NATO,600,800,150,7.2,Steel/Polymer, Gas-operated, Military/Defense, 2000, 220000, High, Restricted in certain countries
+80,M60 Machine Gun,Machine Gun,General Dynamics,7.62×51mm NATO,1000,1200,100,10.2,Steel, Gas-operated, Military/Defense, 1957, 180000, High, Restricted in certain countries
+81,FN MAG,Machine Gun,FN Herstal,7.62×51mm NATO,1200,1400,200,11.0,Steel, Gas-operated, Military/Defense, 1958, 200000, High, Restricted in certain countries
+82,PKM,Machine Gun,Kalashnikov Concern,7.62×54mmR,1000,1500,100,7.5,Steel, Gas-operated, Military/Defense, 1969, 150000, High, Restricted in certain countries
+83,ZBROYAR Z-15,Assault Rifle,ZBROYAR,5.56×45mm NATO,375,500,30,3.0,Steel/Polymer, Gas-operated, Military/Defense, 2015, 250000, High, Restricted in certain countries
+84,Negev NG5,Light Machine Gun,Israel Military Industries,5.56×45mm NATO,600,800,150,7.1,Steel/Polymer, Gas-operated, Military/Defense, 2005, 220000, High, Restricted in certain countries
+85,FN Minimi,Light Machine Gun,FN Herstal,5.56×45mm NATO,400,800,200,7.5,Steel/Polymer, Gas-operated, Military/Defense, 1980, 200000, High, Restricted in certain countries
+86,MG4,Machine Gun,Heckler & Koch,5.56×45mm NATO,600,1000,200,7.5,Steel/Polymer, Gas-operated, Military/Defense, 2001, 230000, High, Restricted in certain countries
+87,Lewis Machine Gun,Machine Gun,Lewis Machine & Tool,5.56×45mm NATO,800,1000,30,7.2,Steel, Gas-operated, Military/Defense, 1940s, 180000, High, Restricted in certain countries
+88,M240B,Machine Gun,General Dynamics,7.62×51mm NATO,1200,1200,200,10.4,Steel, Gas-operated, Military/Defense, 1977, 210000, High, Restricted in certain countries
+89,M134 Minigun,Machine Gun,General Electric,7.62×51mm NATO,2000,1500,1000,21.0,Steel, Electric, Military/Defense, 1960s, 300000, High, Restricted in certain countries
+90,M1917 Browning,Machine Gun,Colt, .30-06 Springfield,1050,1500,250,15.5,Steel, Gas-operated, Military/Defense, 1917, 170000, High, Restricted in certain countries
+91,M2 Browning,Machine Gun,Colt, .50 BMG,1500,2000,1000,38.0,Steel, Gas-operated, Military/Defense, 1933, 300000, High, Restricted in certain countries
+92,F2000 Tactical LMG,Light Machine Gun,FN Herstal,5.56×45mm NATO,460,500,100,7.5,Polymer, Gas-operated, Military/Defense, 2001, 220000, High, Restricted in certain countries
+93,Czub P-30B,Handgun,Czub,9×19mm Parabellum,130,50,15,0.8,Steel/Polymer, Semi-automatic, Civilian, 2015, 25000, Moderate, No major restrictions
+94,GPMD 63,Light Machine Gun,Polska Fabryka Karabinów,7.62×51mm NATO,650,750,100,7.0,Steel, Gas-operated, Military/Defense, 1960, 100000, Moderate, Restricted in certain countries
+95,DP-28,Light Machine Gun,Degtyaryov Plant,7.62×54mmR,800,800,47,8.8,Steel, Gas-operated, Military/Defense, 1928, 60000, Moderate, Restricted in certain countries
+96,Browning M1917,Machine Gun,Colt, .30-06 Springfield,1050,1500,250,15.0,Steel, Gas-operated, Military/Defense, 1917, 170000, High, Restricted in certain countries
+97,MG5,Machine Gun,Heckler & Koch,7.62×51mm NATO,1200,1500,200,12.5,Steel, Gas-operated, Military/Defense, 2011, 250000, High, Restricted in certain countries
+98,Maxim Gun,Machine Gun,Maxim, .303 British,600,1000,250,15.0,Steel, Water-cooled, Military/Defense, 1884, 100000, High, Restricted in certain countries
+99,MG34,Machine Gun,Mauser,7.92×57mm Mauser,1200,1500,250,11.2,Steel, Gas-operated, Military/Defense, 1934, 150000, High, Restricted in certain countries
+100,M60E6,Machine Gun,General Dynamics,7.62×51mm NATO,1000,1200,100,8.5,Steel, Gas-operated, Military/Defense, 2000, 220000, High, Restricted in certain countries
+101,Lahti L-39,Anti-Tank Rifle,Lahti,20mm,1016,1000,5,10.5,Steel,Semi-automatic,Anti-tank,1939,1500000,Low,Restricted
+102,Minimi Mk 3,Light Machine Gun,FN Herstal,5.56mm,460,2000,200 (Belt-fed),7.5,Steel/Polymer,Gas-operated,Military,1980,1800000,High,Restricted
+103,M249 PARA,Light Machine Gun,FN Herstal,5.56mm,460,2000,200 (Belt-fed),7.5,Steel/Polymer,Gas-operated,Military,1980,2000000,High,Restricted
+104,Zastava M84,Assault Rifle,Zastava Arms,7.62mm,420,400,30,3.8,Steel/Wood,Gas-operated,Military,1984,650000,Medium,Restricted
+105,Heckler & Koch PSG1,Sniper Rifle,Heckler & Koch,7.62mm,650,800,5,6.8,Steel/Polymer,Semi-automatic,Military/Law enforcement,1989,12000000,Medium,Restricted
+106,Mauser SP66,Sniper Rifle,Mauser,.338 Lapua Magnum,650,1500,5,7.8,Steel/Polymer,Bolt-action,Military/Law enforcement,2000,10000000,Low,Restricted
+107,SIG Sauer SSG 3000,Sniper Rifle,SIG Sauer,7.62mm,660,1200,5,7.1,Steel/Polymer,Bolt-action,Military/Law enforcement,2003,15000000,High,Restricted
+108,Sako TRG 42,Sniper Rifle,Sako,.338 Lapua Magnum,690,1500,10,6.6,Steel/Polymer,Bolt-action,Military,2003,18000000,High,Restricted
+109,Barrett M82A1,Sniper Rifle,Barrett,.50 BMG,737,1800,10,13,Steel/Bronze,Bolt-action,Military,1982,30000000,High,Restricted
+110,Remington 700,Sniper Rifle,Remington,7.62mm,660,800,5,6.1,Steel/Polymer,Bolt-action,Military/Law enforcement,1962,8000000,High,Restricted
+111,Accuracy International L96A1,Sniper Rifle,Accuracy International,7.62mm,650,1200,5,5.8,Steel/Polymer,Bolt-action,Military,1982,18000000,High,Restricted
+112,Steyr SSG 69,Sniper Rifle,Steyr,7.62mm,650,1000,5,6.3,Steel/Polymer,Bolt-action,Military,1969,12000000,Medium,Restricted
+113,M21 Sniper Rifle,Sniper Rifle,Springfield Armory,7.62mm,660,800,20,5.5,Steel/Polymer,Semi-automatic,Military,1969,7000000,Medium,Restricted
+114,Parker-Hale M85,Sniper Rifle,Parker-Hale,7.62mm,660,1200,5,7.5,Steel/Bronze,Bolt-action,Military,1980,15000000,Low,Restricted
+115,Sako TRG 22,Sniper Rifle,Sako,7.62mm,660,800,5,7.3,Steel/Polymer,Bolt-action,Military,2004,10000000,Medium,Restricted
+116,Tikka T3,Sniper Rifle,Tikka,7.62mm,660,800,5,6.6,Steel/Polymer,Bolt-action,Military,2003,7000000,Medium,Restricted
+117,Dragunov SVD,Sniper Rifle,Izhevsk,7.62mm,620,1300,10,4.3,Steel/Synthetic,Semi-automatic,Military,1963,5000000,High,Restricted
+118,Steyr Scout,Sniper Rifle,Steyr,5.56mm,510,800,5,3.6,Steel/Polymer,Bolt-action,Military,2002,13000000,Medium,Restricted
+119,M110 SASS,Sniper Rifle,Knight's Armament Company,7.62mm,610,1200,20,6.8,Steel/Polymer,Semi-automatic,Military,2007,25000000,High,Restricted
+120,Accuracy International AXMC,Sniper Rifle,Accuracy International,.338 Lapua Magnum,762,1500,5,6.9,Steel/Polymer,Bolt-action,Military,2012,22000000,High,Restricted
+121,FN Ballista,Sniper Rifle,FN Herstal,.338 Lapua Magnum,750,1500,10,7.5,Steel/Polymer,Bolt-action,Military,2010,25000000,High,Restricted
+122,CheyTac M200,Sniper Rifle,CheyTac,.408 CheyTac,762,2000,7,7.5,Steel/Polymer,Bolt-action,Military,2001,35000000,Low,Restricted
+123,M24 Sniper Weapon System,Sniper Rifle,Remington,7.62mm,660,800,5,6.1,Steel/Polymer,Bolt-action,Military,1988,12000000,High,Restricted
+124,M40A5,Sniper Rifle,Remington,7.62mm,660,800,5,6.2,Steel/Polymer,Bolt-action,Military,2008,13000000,High,Restricted
+125,L115A3,Sniper Rifle,Accuracy International,.338 Lapua Magnum,762,2000,5,7.3,Steel/Polymer,Bolt-action,Military,2008,30000000,High,Restricted
+126,SVD Dragunov,Sniper Rifle,Izhevsk,7.62mm,620,1300,10,4.3,Steel/Synthetic,Semi-automatic,Military,1963,5000000,High,Restricted
+127,Heckler & Koch G28,Sniper Rifle,Heckler & Koch,7.62mm,600,1200,20,6.6,Steel/Polymer,Semi-automatic,Military,2011,14000000,Medium,Restricted
+128,Tikka T3 Tactical,Sniper Rifle,Tikka,7.62mm,660,800,5,6.8,Steel/Polymer,Bolt-action,Military,2005,9000000,Medium,Restricted
+129,McMillan TAC-50,Sniper Rifle,McMillan,.50 BMG,762,1500,5,11,Steel/Bronze,Bolt-action,Military,2000,35000000,Low,Restricted
+130,FN Herstal FS2000 Sniper,Sniper Rifle,FN Herstal,.338 Lapua Magnum,762,1500,10,7.2,Steel/Polymer,Bolt-action,Military,2015,22000000,Medium,Restricted
+131,Barrett M99,Sniper Rifle,Barrett,.50 BMG,762,1800,5,10.5,Steel/Polymer,Bolt-action,Military,1999,30000000,Low,Restricted
+132,SIG Sauer 716 Patrol,Sniper Rifle,SIG Sauer,7.62mm,600,1200,20,8,Steel/Polymer,Semi-automatic,Military,2012,18000000,High,Restricted
+133,Norinco Type 79,Sniper Rifle,Norinco,7.62mm,600,1000,5,7.1,Steel/Polymer,Bolt-action,Military,1980,8000000,Medium,Restricted
+134,M1D Sniper Rifle,Sniper Rifle,Springfield Armory,7.62mm,660,800,5,6,Steel/Polymer,Gas-operated,Military,1941,5000000,Medium,Restricted
+135,Glock-17,Pistol,Glock,9mm,102,50,17,0.63,Polymer,Short recoil,Self-defense,1982,35000,High,Restricted
+136,Beretta Px4 Storm,Pistol,Beretta,9mm,102,50,17,0.72,Polymer,Short recoil,Self-defense,2004,42000,High,Restricted
+137,Glock 19,Pistol,Glock,9mm,102,50,15,0.63,Polymer,Short recoil,Self-defense,1988,35000,High,Restricted
+138,Taurus T9,Pistol,Taurus,9mm,100,50,15,0.68,Polymer,Short recoil,Self-defense,2000,30000,Medium,Restricted
+139,Heckler & Koch USP,Pistol,Heckler & Koch,9mm,104,50,15,0.73,Polymer,Short recoil,Self-defense,1993,45000,High,Restricted
+141,Browning Hi-Power,Pistol,Browning,9mm,102,50,13,0.75,Steel,Short recoil,Self-defense,1935,45000,High,Restricted
+142,CZ-75,Pistol,CZ,9mm,102,50,15,0.85,Steel,Short recoil,Self-defense,1975,40000,Medium,Restricted
+143,Walther P99,Pistol,Walther,9mm,102,50,15,0.75,Polymer,Short recoil,Self-defense,1997,42000,High,Restricted
+144,SIG Sauer P226,Pistol,SIG Sauer,9mm,104,50,15,0.84,Steel/Polymer,Short recoil,Self-defense,1984,50000,High,Restricted
+145,Steyr M9-A1,Pistol,Steyr,9mm,102,50,17,0.77,Polymer,Short recoil,Self-defense,2007,38000,Medium,Restricted
+146,Smith & Wesson M&P 9,Pistol,Smith & Wesson,9mm,102,50,17,0.75,Polymer,Short recoil,Self-defense,2005,45000,High,Restricted
+147,Ruger SR1911,Pistol,Ruger,.45 ACP,104,50,7,1.1,Steel,Short recoil,Self-defense,2011,55000,High,Restricted
+148,Makarov PM,Pistol,Makarov,9mm,102,50,8,0.69,Steel,Short recoil,Self-defense,1951,20000,Low,Restricted
+149,Bersa Thunder 380,Pistol,Bersa,.380 ACP,103,50,7,0.73,Steel/Polymer,Blowback,Self-defense,1994,35000,Medium,Restricted
+150,Colt 1911 A1,Pistol,Colt,.45 ACP,127,50,7,1.1,Steel,Short recoil,Self-defense,1926,55000,High,Restricted
+151,Walther P38,Pistol,Walther,9mm,102,50,8,0.82,Steel,Short recoil,Military,1938,45000,Medium,Restricted
+152,Beretta 92FS,Pistol,Beretta,9mm,102,50,15,0.85,Polymer,Short recoil,Military/Police,1975,40000,High,Restricted
+153,Springfield XD,Pistol,Springfield,9mm,102,50,16,0.80,Polymer,Short recoil,Self-defense,2002,42000,High,Restricted
+154,Ruger P89,Pistol,Ruger,9mm,102,50,15,0.75,Polymer,Short recoil,Self-defense,1989,39000,Medium,Restricted
+155,Colt Defender,Pistol,Colt,.45 ACP,127,50,7,1.0,Steel,Short recoil,Self-defense,2000,57000,High,Restricted
+156,Kahr CW9,Pistol,Kahr,9mm,102,50,7,0.75,Polymer,Short recoil,Self-defense,2009,42000,Medium,Restricted
+157,Heckler & Koch P30,Pistol,Heckler & Koch,9mm,104,50,15,0.85,Polymer,Short recoil,Self-defense,2006,48000,High,Restricted
+158,Smith & Wesson Model 686,Revolver,Smith & Wesson,.357 Magnum,137,50,6,1.2,Steel,Double-action,Self-defense,1980,45000,High,Restricted
+159,Beretta M9,Pistol,Beretta,9mm,102,50,15,0.88,Polymer,Short recoil,Military,1985,50000,High,Restricted
+160,FNH FNX-45,Pistol,FN Herstal,.45 ACP,104,50,15,0.98,Steel/Polymer,Short recoil,Self-defense,2009,60000,High,Restricted
+161,SIG Sauer P229,Pistol,SIG Sauer,9mm,104,50,13,0.79,Steel/Polymer,Short recoil,Self-defense,1989,55000,High,Restricted
+162,CZ 1911 A1,Pistol,CZ,.45 ACP,127,50,7,1.1,Steel,Short recoil,Self-defense,2000,52000,High,Restricted
+163,Taurus 85 Revolver,Revolver,Taurus,.38 Special,138,50,5,0.98,Steel,Double-action,Self-defense,1985,30000,Medium,Restricted
+164,FN Five-seveN,Pistol,FN Herstal,5.7mm,103,50,20,0.70,Polymer,Short recoil,Self-defense,1998,60000,High,Restricted
+165,12 Bore PAG,Shotgun,Unknown,12 Gauge,1000,50,5,3.0,Steel,Lever-action,Self-defense,Unknown,30000,Low,Restricted
+166,Franchi SPAS-15,Shotgun,Franchi,12 Gauge,800,50,8,3.5,Steel,Gas-operated,Military,1990,70000,High,Restricted
+167,Remington 870,Shotgun,Remington,12 Gauge,800,50,8,3.2,Steel/Plywood,Pump-action,Self-defense,1950,45000,High,Restricted
+168,Mossberg 500,Shotgun,Mossberg,12 Gauge,800,50,8,3.0,Steel,Pump-action,Self-defense,1960,42000,High,Restricted
+169,Benelli M4,Shotgun,Benelli,12 Gauge,800,50,7,3.3,Steel/Polymer,Gas-operated,Military/Police,1999,75000,High,Restricted
+170,IWI Negev,Machine Gun,IWI,5.56mm,550,1000,200 (Belt-fed),8.5,Steel/Polymer,Gas-operated,Military,1997,1800000,High,Restricted
+171,Ithaca 37,Shotgun,Ithaca,12 Gauge,800,50,4,3.0,Steel,Pump-action,Self-defense,1937,35000,Low,Restricted
+172,Winchester Model 1300,Shotgun,Winchester,12 Gauge,800,50,7,3.4,Steel,Pump-action,Self-defense,1988,38000,Medium,Restricted
+173,Browning Auto-5,Shotgun,Browning,12 Gauge,800,50,5,3.5,Steel,Gas-operated,Self-defense,1905,70000,High,Restricted
+174,Remington 1100,Shotgun,Remington,12 Gauge,800,50,8,3.0,Steel,Gas-operated,Self-defense,1963,48000,High,Restricted
+175,Saiga-12,Shotgun,Izhmash,12 Gauge,800,50,5,3.6,Steel,Gas-operated,Military,1990,75000,High,Restricted
+176,Franchi Law 12,Shotgun,Franchi,12 Gauge,800,50,7,3.3,Steel,Gas-operated,Military/Police,1997,60000,High,Restricted
+177,M1 Super 90,Shotgun,Benelli,12 Gauge,800,50,7,3.0,Steel,Gas-operated,Military/Police,1991,72000,High,Restricted
+178,M870 Express Tactical,Shotgun,Remington,12 Gauge,800,50,8,3.1,Steel/Plywood,Pump-action,Military,2005,52000,High,Restricted
+179,Breda 9300,Shotgun,Breda,12 Gauge,800,50,7,3.3,Steel,Gas-operated,Self-defense,2000,46000,Medium,Restricted
+180,Beretta 682,Shotgun,Beretta,12 Gauge,800,50,5,3.0,Steel/Polymer,Over/Under,Self-defense,1985,90000,Medium,Restricted
+181,Browning Maxus,Shotgun,Browning,12 Gauge,800,50,5,3.2,Steel/Polymer,Gas-operated,Self-defense,2008,88000,High,Restricted
+182,Mossberg Maverick 88,Shotgun,Mossberg,12 Gauge,800,50,7,3.0,Steel,Pump-action,Self-defense,1988,37000,Medium,Restricted
+183,Stoeger 2000,Shotgun,Stoeger,12 Gauge,800,50,5,3.0,Steel,Gas-operated,Self-defense,2002,45000,Medium,Restricted
+184,FNH FN Herstal,Shotgun,FN Herstal,12 Gauge,800,50,6,3.4,Steel,Gas-operated,Military,2010,85000,High,Restricted
+185,Benelli Nova,Shotgun,Benelli,12 Gauge,800,50,5,3.5,Steel/Polymer,Pump-action,Self-defense,2000,60000,High,Restricted
+186,IWI Tavor TS12,Shotgun,IWI,12 Gauge,800,50,15,3.2,Steel/Polymer,Gas-operated,Military,2018,92000,High,Restricted
+187,Beretta 1301,Shotgun,Beretta,12 Gauge,800,50,5,3.1,Steel/Polymer,Gas-operated,Military,2011,80000,High,Restricted
+188,Savage Arms 12 gauge,Shotgun,Savage Arms,12 Gauge,800,50,7,3.2,Steel,Lever-action,Self-defense,2010,43000,Medium,Restricted
+189,Stoeger P3500,Shotgun,Stoeger,12 Gauge,800,50,8,3.3,Steel/Plywood,Gas-operated,Self-defense,2010,49000,Medium,Restricted
+190,Remington Versa Max,Shotgun,Remington,12 Gauge,800,50,6,3.0,Steel,Gas-operated,Self-defense,2011,60000,High,Restricted
+191,Benelli Raffaello,Shotgun,Benelli,12 Gauge,800,50,7,3.1,Steel/Polymer,Gas-operated,Self-defense,1997,72000,High,Restricted
+192,Mossberg 590,Shotgun,Mossberg,12 Gauge,800,50,8,3.2,Steel,Pump-action,Military,1967,60000,High,Restricted
+193,Browning BPS,Shotgun,Browning,12 Gauge,800,50,5,3.3,Steel/Plywood,Pump-action,Self-defense,1984,70000,Medium,Restricted
+194,Beretta PX4 Storm Tactical Shotgun,Shotgun,Beretta,12 Gauge,800,50,7,3.2,Steel/Polymer,Gas-operated,Military,2010,85000,High,Restricted
+195,TriCa 7.62x39 mm Carbine,Carbine,TriCa,7.62mm,400,1000,30,3.1,Steel/Polymer,Gas-operated,Military,2005,45000,High,Restricted
+196,IWI Tavor X95,Carbine,IWI,5.56mm,500,1000,30,3.2,Steel/Polymer,Gas-operated,Military,2010,60000,High,Restricted
+197,M4 Carbine,Carbine,Colt,5.56mm,500,1000,30,3.3,Steel/Polymer,Gas-operated,Military,1994,70000,High,Restricted
+198,SCAR H and SCAR L,Carbine,FN Herstal,5.56mm,500,1000,30,3.0,Steel/Polymer,Gas-operated,Military,2009,80000,High,Restricted
+199,FN P90,Submachine Gun,FN Herstal,5.7mm,800,1000,50,2.5,Polymer,Gas-operated,Military,1990,90000,High,Restricted
+200,FN F2000,Assault Rifle,FN Herstal,5.56mm,550,1000,30,3.4,Steel/Polymer,Gas-operated,Military,2006,85000,High,Restricted
+201,IWI Arad,Assault Rifle,IWI,5.56mm,500,1000,30,3.2,Steel/Polymer,Gas-operated,Military,2012,70000,High,Restricted
+202,Colt M4A1,Assault Rifle,Colt,5.56mm,500,1000,30,3.3,Steel/Polymer,Gas-operated,Military,1994,75000,High,Restricted
+203,Kalashnikov AK-74U,Assault Rifle,Kalashnikov,5.45mm,500,1000,30,3.0,Steel/Polymer,Gas-operated,Military,1994,70000,High,Restricted
+204,Heckler & Koch G36C,Assault Rifle,Heckler & Koch,5.56mm,500,1000,30,3.1,Steel/Polymer,Gas-operated,Military,1997,80000,High,Restricted
+205,Beretta CX4 Storm,Carbine,Beretta,9mm,400,1000,30,3.0,Polymer,Gas-operated,Military,2003,60000,Medium,Restricted
+206,CZ Scorpion Evo 3,Submachine Gun,CZ,9mm,400,1000,30,2.8,Polymer,Gas-operated,Military,2009,65000,High,Restricted
+207,Beretta ARX160,Assault Rifle,Beretta,5.56mm,500,1000,30,3.0,Steel/Polymer,Gas-operated,Military,2009,75000,High,Restricted
+208,Ruger PC Carbine,Carbine,Ruger,9mm,400,1000,17,2.7,Polymer,Gas-operated,Self-defense,2017,50000,Medium,Restricted
+209,Springfield M1A SOCOM,Assault Rifle,Springfield,.308 Winchester,700,1000,20,4.0,Steel,Gas-operated,Military,2003,85000,High,Restricted
+210,M1 Carbine,Carbine,Springfield,.30 Carbine,700,1000,15,3.0,Steel,Gas-operated,Military,1942,55000,Medium,Restricted
+211,HK G36,Assault Rifle,Heckler & Koch,5.56mm,500,1000,30,3.2,Steel/Polymer,Gas-operated,Military,1995,80000,High,Restricted
+212,M1A1 Carbine,Carbine,Springfield,.30 Carbine,700,1000,15,3.1,Steel,Gas-operated,Military,1940,60000,Medium,Restricted
+213,SAR-21,Assault Rifle,ST Kinetics,5.56mm,500,1000,30,3.0,Steel/Polymer,Gas-operated,Military,1999,70000,High,Restricted
+214,Steyr AUG A3,Assault Rifle,Steyr,5.56mm,500,1000,30,3.1,Steel/Polymer,Gas-operated,Military,2003,75000,High,Restricted
+215,CZ 805 Bren,Assault Rifle,CZ,5.56mm,500,1000,30,3.2,Steel/Polymer,Gas-operated,Military,2008,80000,High,Restricted
+216,FN Herstal FN F2000,Assault Rifle,FN Herstal,5.56mm,500,1000,30,3.3,Steel/Polymer,Gas-operated,Military,2001,85000,High,Restricted
+217,SIG MPX,Submachine Gun,SIG Sauer,9mm,400,1000,30,2.7,Polymer,Gas-operated,Military,2011,70000,High,Restricted
+218,F2000 Tactical,Assault Rifle,FN Herstal,5.56mm,500,1000,30,3.3,Steel/Polymer,Gas-operated,Military,2008,90000,High,Restricted
+219,Colt Canada C8,Assault Rifle,Colt Canada,5.56mm,500,1000,30,3.0,Steel/Polymer,Gas-operated,Military,1990,85000,High,Restricted
+220,Bushmaster ACR,Assault Rifle,Bushmaster,5.56mm,500,1000,30,3.1,Steel/Polymer,Gas-operated,Military,2009,90000,High,Restricted
+221,Stag Arms 7.62 NATO Carbine,Carbine,Stag Arms,7.62mm,500,1000,20,3.8,Steel/Polymer,Gas-operated,Military,2008,95000,High,Restricted
+222,Tavor TAR-21,Assault Rifle,Israel Weapon Industries,5.56mm,500,1000,30,3.1,Steel/Polymer,Gas-operated,Military,2001,80000,High,Restricted
+223,M249 Light Machine Gun,Light Machine Gun,FN Herstal,5.56mm,400,1000,200 (Belt-fed),8.2,Steel/Polymer,Gas-operated,Military,1984,120000,High,Restricted
+224,MG3,Machine Gun,Heckler & Koch,7.62mm,500,1200,100 (Belt-fed),8.0,Steel,Gas-operated,Military,1967,150000,High,Restricted
+225,Bren LMG,Light Machine Gun,Brenco,7.62mm,500,1200,100 (Belt-fed),8.1,Steel,Gas-operated,Military,1938,135000,High,Restricted
+226,M2 Browning,Heavy Machine Gun,John Browning,.50 BMG,700,1500,100 (Belt-fed),12.0,Steel,Gas-operated,Military,1933,180000,High,Restricted
+227,M60 Machine Gun,Machine Gun,General Electric,7.62mm,500,1200,100 (Belt-fed),8.5,Steel,Gas-operated,Military,1957,160000,High,Restricted
+228,FN MAG,Machine Gun,FN Herstal,7.62mm,500,1200,100 (Belt-fed),9.0,Steel,Gas-operated,Military,1958,170000,High,Restricted
+229,PKM,Machine Gun,Kalashnikov,7.62mm,500,1200,100 (Belt-fed),8.5,Steel,Gas-operated,Military,1969,150000,High,Restricted
+230,ZBROYAR Z-15,Assault Rifle,Zbroyar,5.56mm,500,1000,30,3.2,Steel/Polymer,Gas-operated,Military,2011,75000,High,Restricted
+231,Negev NG7,Light Machine Gun,Israel Weapon Industries,5.56mm,500,1200,200 (Belt-fed),7.5,Steel/Polymer,Gas-operated,Military,2005,140000,High,Restricted
+232,Negev NG5,Light Machine Gun,Israel Weapon Industries,5.56mm,500,1200,200 (Belt-fed),7.3,Steel/Polymer,Gas-operated,Military,2008,130000,High,Restricted
+233,M240B,Machine Gun,FN Herstal,7.62mm,500,1200,100 (Belt-fed),9.0,Steel,Gas-operated,Military,1977,160000,High,Restricted
+234,M134 Minigun,Machine Gun,General Electric,.223 Remington,2000,2000,1000 (Belt-fed),18.0,Steel,Electric,Military,1963,500000,High,Restricted
+235,F2000 Tactical LMG,Light Machine Gun,FN Herstal,5.56mm,500,1200,200 (Belt-fed),8.0,Steel/Polymer,Gas-operated,Military,2008,150000,High,Restricted
+236,Czub P-30B,Handgun,Czub,9mm,102,50,15,0.80,Steel/Polymer,Short recoil,Self-defense,2003,35000,Medium,Restricted
+237,GPMD 63,Machine Gun,Polska,7.62mm,500,1200,100 (Belt-fed),8.5,Steel,Gas-operated,Military,1963,145000,High,Restricted
+238,DP-28,Machine Gun,Degtyaryov,7.62mm,500,1200,47 (Drum-fed),10.0,Steel,Gas-operated,Military,1928,130000,High,Restricted
+239,Browning M1917,Machine Gun,Browning,.30-06 Springfield,500,1500,250 (Belt-fed),10.0,Steel,Water-cooled,Military,1917,160000,High,Restricted
+240,MG5,Machine Gun,Heckler & Koch,7.62mm,500,1200,100 (Belt-fed),8.0,Steel,Gas-operated,Military,2011,180000,High,Restricted
+241,Maxim Gun,Machine Gun,Maxim,7.62mm,500,1200,250 (Belt-fed),9.5,Steel,Water-cooled,Military,1884,150000,High,Restricted
+242,MG34,Machine Gun,Mauser,7.92mm,500,1200,250 (Belt-fed),8.0,Steel,Gas-operated,Military,1934,160000,High,Restricted
+243,M60E6,Machine Gun,General Electric,7.62mm,500,1200,100 (Belt-fed),8.5,Steel,Gas-operated,Military,2004,170000,High,Restricted
+244,Lahti L-39,Anti-tank Rifle,Lahti,20mm,200,600,5,18.0,Steel,Single-shot,Military,1939,200000,High,Restricted
+245,Minimi Mk 3,Light Machine Gun,FN Herstal,5.56mm,500,1200,200 (Belt-fed),7.5,Steel,Gas-operated,Military,2014,135000,High,Restricted
+246,M249 PARA,Light Machine Gun,FN Herstal,5.56mm,500,1200,200 (Belt-fed),7.0,Steel/Polymer,Gas-operated,Military,1989,125000,High,Restricted
