@@ -2,6 +2,7 @@
 
 •	Introduction:
 ArcSight Defence is a mobile application designed to provide comprehensive and accurate information about the weapons, equipment, and grenades used by the Indian Paramilitary Forces (IPF). The app serves as a valuable resource for researchers, enthusiasts, analysts, and anyone interested in understanding the diverse arsenal employed by the IPF. By offering detailed insights into firearms, equipment, and explosive devices, ArcSight Defence ensures that users stay well-informed and knowledgeable.
+
 The application features multiple modules that recommend weapons, grenades, and equipment based on user preferences. Additionally, it includes a gun range prediction module to estimate the effective range of various firearms. ArcSight Defence not only delivers reliable recommendations but also enhances the user's understanding of weapon characteristics and capabilities. With a user-friendly interface and robust data accuracy, it becomes an essential tool for those interested in studying the weaponry of the Indian Paramilitary Forces.
 
 
@@ -74,9 +75,13 @@ o	Postman (for testing API endpoints)
 Steps to Execute this project :
 
 1.Install Android studio and include all the frontend files provided in the ArcSight Defence repository. Paste all the contents of the "Android Frontend" after creating a project in the Android Studio. path : " ..\ArcSight Defence\app\src\main"
+
 2.After pulling the ML model, open the ML Model folder an open Jupyter Notebook into that file. After Opening the Jupyter Notebook, execute all the python notebook files and pickle the models. Althought all the pickle files are provided in the ML models file, just to be safe repickle the model to reduce the compatibility issues.
+
 3.Now after pulling the API folder, paste all the  ".pkl" and the datasets into the files into that API folder. Now open the API files into the VS code editior, Pycharm or any other code editor which you like and run the API Files.
+
 4.After executing the API files, your API will be active and ready to communicate with your frontend. Now just open the Android Studio and then just run the project of yours in an android device emulator given by android studio itself.
+
 (Note : if you want export the apk of the android app and want to run the app on your android device, you can just host the API by using any API hosting sevice or if you have your own server, just change the API link from localhost to global host that your APP will be able to communicate remotely with the server.Also the dataset include all the information regarding the guns and sensitive information as well, so misuse of this data could lead to legal action.)
 
 This APP is Open Source yet sensitive as this app include information regarding all the guns and equipements used, it is free for everyone to add their own touch to the app and if anyone want to work with me for making this APP more efficient, you can just mail me. 
